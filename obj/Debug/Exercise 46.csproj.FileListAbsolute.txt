@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exercise 46\Exercise 46\bin\Debug\Exercise 46.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exercise 46\Exercise 46\bin\Debug\Exercise 46.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exercise 46\Exercise 46\bin\Debug\Exercise 46.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exercise 46\Exercise 46\obj\Debug\Exercise 46.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exercise 46\Exercise 46\obj\Debug\Exercise 46.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exercise 46\Exercise 46\obj\Debug\Exercise 46.pdb
